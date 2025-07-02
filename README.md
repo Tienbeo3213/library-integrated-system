@@ -39,8 +39,6 @@ This system integrates multiple library services into a unified platform with:
 ---
 
 ## Architecture & Technology Stack
-![image](https://github.com/user-attachments/assets/ccdc449b-c55b-44d7-852a-9780d71857e9)
-
 
 ![Architecture Diagram](docs/diagrams/architecture.png)
 
@@ -53,9 +51,6 @@ This system integrates multiple library services into a unified platform with:
 | Data Warehouse                   | PostgreSQL / SQL Server (Galaxy schema)       |
 | OLAP & BI                        | SSAS cube (MOLAP/Tabular) + Power BI           |
 | Recommendation Engine            | Python (SBERT embeddings + scikit-learn KNN)  |
-| Infrastructure as Code (optional)| Terraform                                     |
-| Continuous Integration & Delivery| GitHub Actions (lint, test, build)            |
-
 ---
 
 ## Manual Installation & Deployment
@@ -66,7 +61,7 @@ This system integrates multiple library services into a unified platform with:
 - Linux (Ubuntu 20.04+) or WSL2 on Windows
 - Python 3.8+ and pip
 - Java 11+
-- PostgreSQL or SQL Server
+- PostgreSQL or SQL Server or MySQL
 - SQL Server Analysis Services (if using SSAS)
 - Node.js & npm (for DSpace)
 
