@@ -39,8 +39,7 @@ This system integrates multiple library services into a unified platform with:
 ---
 
 ## Architecture & Technology Stack
-
-![Architecture Diagram](docs/diagrams/architecture.png)
+![image](https://github.com/user-attachments/assets/6f5163c6-81cf-4ad7-8b63-e3593d25a878)
 
 | Component                        | Technology                                    |
 |----------------------------------|-----------------------------------------------|
