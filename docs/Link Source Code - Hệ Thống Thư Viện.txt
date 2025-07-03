@@ -1,0 +1,20 @@
+Koha - module gợi ý:
+https://github.com/hcmute-library/HCMUTE-Library-System/releases/tag/koha-v1.0
+
+DSpace:
+https://github.com/hcmute-library/HCMUTE-Library-System/releases/tag/dspace-v1.0
+
+Vufind:
+https://github.com/hcmute-library/HCMUTE-Library-System/releases/tag/vufind-v2.0
+
+SSAS: 
+https://github.com/hcmute-library/HCMUTE-Library-System/tree/Documents/SSAS
+
+PowerBI: 
+https://github.com/hcmute-library/HCMUTE-Library-System/tree/Documents/PowerBI
+
+DAGs-Airflow: 
+https://github.com/hcmute-library/HCMUTE-Library-System/tree/Documents/Airflow-DAGs
+
+ETL: 
+https://github.com/hcmute-library/HCMUTE-Library-System/tree/Documents/Data-Warehouse/DWH_Lib
